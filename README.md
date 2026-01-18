@@ -3,6 +3,7 @@
     <title>BIT Form</title>
 </head>
 <body>
+    <h1>FILL YOUR DETAILS</h1>
     <form action="html_form_action.asp" method="post">
         <label>First Name:</label><br>
         <input type="text" name="First name"><br><br>
